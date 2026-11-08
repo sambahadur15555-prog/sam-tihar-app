@@ -23,7 +23,7 @@ jobs:
             build-essential \
             ccache \
             git \
-            libncurses5:i386 \
+            libncursesw5:i386 \
             libstdc++6:i386 \
             zlib1g:i386 \
             libffi-dev \
